@@ -20,11 +20,7 @@
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-stats-extended.vercel.app/api?username=PacoCanovaca&rank_icon=github&custom_title=General%20Stats&show_icons=true&include_all_commits=true&theme=shadow_red" alt="General Stats">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PacoCanovaca&layout=compact&langs_count=6&theme=shadow_red" alt="Top Languages">
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=PacoCanovaca&layout=compact&langs_count=4&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=PacoCanovaca&layout=compact&langs_count=4&theme=shadow_red)
 
 <!--
 **PacoCanovaca/PacoCanovaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
