@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-* 🚀 Aspiring **Full-Stack Developer** from Córdoba, Spain <img src="https://flagcdn.com/w40/es.png" width="18" alt="Spain">
+* 🚀 Aspiring **Software Developer** from Córdoba, Spain <img src="https://flagcdn.com/w40/es.png" width="18" alt="Spain">
 * 📊 Also interested in **Data Analytics, Data Science and Machine Learning**
 * 🎓 Currently studying **Multiplatform Application Development (DAM)**
 * 🌐 Portfolio: [Coming soon](#)
